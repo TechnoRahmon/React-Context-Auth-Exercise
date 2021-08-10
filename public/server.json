@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "email": "user1@gmail.com",
+      "password": "123456User",
+      "fullName": "user1",
+      "phone": "123456789",
+      "id": 1,
+      "token": "ad1524da-ed11-478c-9d89-822b87feac9e"
+    },
+    {
+      "email": "Uesr2@gmail.com",
+      "password": "123456User",
+      "fullName": "user2",
+      "phone": "123456789",
+      "id": 2
+    },
+    {
+      "email": "user5@gmail.com",
+      "password": "123456User",
+      "fullName": "user5",
+      "phone": "123456789",
+      "id": 3,
+      "token": "94ae61b5-8534-44fa-8739-0aa1d73481e0"
+    }
+  ]
+}
